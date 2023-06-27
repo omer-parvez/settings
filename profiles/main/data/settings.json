@@ -1,0 +1,119 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#fbed80",
+        "activityBar.background": "#fbed80",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#06b9a5",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "editorGroup.border": "#fbed80",
+        "panel.border": "#fbed80",
+        "sash.hoverBorder": "#fbed80",
+        "sideBar.border": "#fbed80",
+        "statusBar.background": "#f9e64f",
+        "statusBar.border": "#f9e64f",
+        "statusBar.debuggingBackground": "#4f62f9",
+        "statusBar.debuggingBorder": "#4f62f9",
+        "statusBar.debuggingForeground": "#e7e7e7",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#f7df1e",
+        "statusBarItem.remoteBackground": "#f9e64f",
+        "statusBarItem.remoteForeground": "#15202b",
+        "tab.activeBorder": "#fbed80",
+        "titleBar.activeBackground": "#f9e64f",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.border": "#f9e64f",
+        "titleBar.inactiveBackground": "#f9e64f99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "window.zoomLevel": 1,
+    "cSpell.userWords": [
+        "Omers",
+        "sourcery"
+    ],
+    "files.autoSave": "afterDelay",
+    "livecode.defaultFilterTypes": [
+        
+        "<class 'module'>",
+        "<class 'function'>"
+    ],
+    "lightrun.certificatePinningList": [
+        "515a630cfd1fb908e30087bcc20b7413ad146b9bf2b23d3aaa72c28e45b24fb2",
+        "ee80811b38e7e6c2dc4cc372cbea86bd86b446b012e427f2e19bf094afba5d12"
+    ],
+    "lightrun.serverURL": "https://app.lightrun.com",
+    "lightrun.sendSourceFullPath": true,
+    "indentRainbow.colors": [
+
+        "rgba(0,0,255,0.2)",
+        "rgba(0,255,0,0.2)",
+        "rgba(0,0,255,0.2)",
+        "rgba(23,13,255,0.2)"
+    ],
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "prettier.useTabs": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "peacock.affectEditorGroupBorder": true,
+    "peacock.affectPanelBorder": true,
+    "peacock.affectSideBarBorder": true,
+    "peacock.affectStatusAndTitleBorders": true,
+    "peacock.affectTabActiveBorder": true,
+    "peacock.affectDebuggingStatusBar": true,
+    "importCost.debug": true,
+    "git.openRepositoryInParentFolders": "never",
+    "peacock.favoriteColors": [
+        {
+            "name": "Angular Red",
+            "value": "#dd0531"
+        },
+        {
+            "name": "Azure Blue",
+            "value": "#007fff"
+        },
+        {
+            "name": "JavaScript Yellow",
+            "value": "#f9e64f"
+        },
+        {
+            "name": "Mandalorian Blue",
+            "value": "#1857a4"
+        },
+        {
+            "name": "Node Green",
+            "value": "#215732"
+        },
+        {
+            "name": "React Blue",
+            "value": "#61dafb"
+        },
+        {
+            "name": "Something Different",
+            "value": "#832561"
+        },
+        {
+            "name": "Svelte Orange",
+            "value": "#ff3d00"
+        },
+        {
+            "name": "Vue Green",
+            "value": "#42b883"
+        }
+    ],
+    "glassit.alpha": 255,
+    "syncSettings.confirmSync": true,
+    "syncSettings.crons": {
+        
+    }
+}
