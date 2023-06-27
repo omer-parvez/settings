@@ -114,6 +114,7 @@
     "glassit.alpha": 255,
     "syncSettings.confirmSync": true,
     "syncSettings.crons": {
-        
-    }
+
+    },
+    "syncSettings.resources": ["extensions", "keybindings", "settings", "snippets", "uiState"]
 }
