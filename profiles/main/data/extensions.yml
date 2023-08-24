@@ -1,11 +1,11 @@
 disabled:
   - id: amazonwebservices.aws-toolkit-vscode
     uuid: ac5787df-9b2d-441c-abf0-977d62bc66f0
-  - id: GitHub.copilot
-    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
+  - id: adpyke.codesnap
+    uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
   - id: albert.TabOut
     uuid: 4ef6c2d5-de36-45a1-9015-18c1d4a3a25e
   - id: alefragnani.project-manager
@@ -14,6 +14,8 @@ enabled:
     uuid: 88eb8072-5ab1-457b-9835-6d92196388a3
   - id: batisteo.vscode-django
     uuid: 4b41a5a8-170e-4156-b2c0-10efb270abbc
+  - id: bianxianyang.htmlplay
+    uuid: 888cc293-dcc6-4011-aa11-918f0cf5514d
   - id: Blackboxapp.blackbox
     uuid: 29f905db-7b5e-4c4e-9295-02bf72a065d0
   - id: ccimage.jsonviewer
@@ -40,16 +42,20 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: george-alisson.html-preview-vscode
     uuid: 18b0ddc7-5d9c-4604-a7fa-10e66a2cb10d
+  - id: GitHub.copilot
+    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
+  - id: GitHub.copilot-chat
+    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
   - id: GrapeCity.gc-excelviewer
     uuid: 8bb12ae3-73f8-40cf-86b7-4bd5729c6238
   - id: hbenl.vscode-test-explorer
     uuid: ff96f1b4-a4b8-45ef-8ecf-c232c0cb75c8
+  - id: HookyQR.minify
+    uuid: 6d40d0bb-f7f2-4d8b-94a9-ad03aa13fb8f
   - id: johnpapa.vscode-peacock
     uuid: 5a7017bf-c571-4d77-b902-6e56b16f539a
   - id: kaih2o.python-resource-monitor
     uuid: 25b17ded-4072-4c87-93b2-de7d29b82702
-  - id: kodezi.kodezi
-    uuid: 4193a393-b71a-4530-9323-bad3a65fef94
   - id: littlefoxteam.vscode-python-test-adapter
     uuid: 912fd5ae-d9f2-4c31-8a0b-d7fb669afbb4
   - id: mintlify.document
@@ -60,6 +66,8 @@ enabled:
     uuid: 11cb120c-f665-45bc-a21e-6de8a5685850
   - id: ms-python.black-formatter
     uuid: 859e640c-c157-47da-8699-9080b81c8371
+  - id: ms-python.pylint
+    uuid: 8dc47276-5882-4c5f-903d-7eef7b9d1584
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
@@ -74,8 +82,18 @@ enabled:
     uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
   - id: ms-toolsai.vscode-jupyter-slideshow
     uuid: e153ca70-b543-4865-b4c5-b31d34185948
+  - id: ms-vscode.cmake-tools
+    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
+  - id: ms-vscode.cpptools
+    uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
+  - id: ms-vscode.cpptools-extension-pack
+    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
   - id: ms-vscode.test-adapter-converter
     uuid: 47210ec2-0324-4cbb-9523-9dff02a5f9ec
+  - id: ms-vsliveshare.vsliveshare
+    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
   - id: msrvida.vscode-sanddance
     uuid: 3914ddcf-fa51-4dea-8f96-33dfebc478e1
   - id: NabeelValley.easyzoom
@@ -86,24 +104,28 @@ enabled:
     uuid: a7b7591e-f2b8-48f7-b8ea-6d62a0dd38c8
   - id: oderwat.indent-rainbow
     uuid: eaa2127d-cb69-4ab9-8505-a60c9ee5f28b
+  - id: rafapaulin.try-material-icon-theme
+    uuid: 11ba3375-5798-4da2-bcf4-eb9568f7bc4c
   - id: ritwickdey.LiveServer
     uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
-  - id: s-nlf-fh.glassit
-    uuid: 7f4f553c-204c-42fe-9b4d-7a3f11f7335b
-  - id: sldobri.bunker
-    uuid: 1256df07-e7c0-4e17-bd23-96b617cf21bc
   - id: SonarSource.sonarlint-vscode
     uuid: a7fa941e-bcda-486f-8141-8483a6286177
   - id: sourcery.sourcery
     uuid: 0bb8a841-96c3-4e2d-ab43-cffee71480a4
   - id: streetsidesoftware.code-spell-checker
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
   - id: thebarkman.vscode-djaneiro
     uuid: 7e72252f-e749-4e4a-bc6a-4a8cc2d121bd
   - id: tomoki1207.pdf
     uuid: 4386e6f6-ec10-4463-9d23-c24278718947
   - id: traBpUkciP.wolf
     uuid: 6d5e664b-8bc5-456b-aa61-537d9a112dc0
+  - id: twxs.cmake
+    uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
+  - id: Tyriar.theme-sapphire
+    uuid: a7776178-9e5a-46b6-a12d-480d9a3ee80a
   - id: usernamehw.indent-one-space
     uuid: 21a0ca11-beff-4be7-a773-d094b6a2ed93
   - id: VisualStudioExptTeam.intellicode-api-usage-examples
