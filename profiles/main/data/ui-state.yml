@@ -756,7 +756,7 @@ workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","name":"Problems
   Console","pinned":true,"order":2,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"order":3,"visible":true},{"id":"workbench.panel.testResults","name":"Test
   Results","pinned":true,"order":3,"visible":false},{"id":"workbench.view.extension.blackbox-terminal","name":"SEARCH
   TERMINAL
-  OUTPUT","pinned":true,"order":6,"visible":true},{"id":"workbench.view.extension.gitlensPanel","name":"GitLens","pinned":true,"order":7,"visible":false},{"id":"workbench.view.extension.copilot-message-panel","name":"Copilot","pinned":true,"order":7,"visible":false},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","pinned":true,"order":8,"visible":false},{"id":"workbench.view.extension.aws-codewhisperer-reference-log","name":"CodeWhisperer
+  OUTPUT","pinned":true,"order":6,"visible":true},{"id":"workbench.view.extension.gitlensPanel","name":"GitLens","pinned":true,"order":7,"visible":true},{"id":"workbench.view.extension.copilot-message-panel","name":"Copilot","pinned":true,"order":7,"visible":false},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","pinned":true,"order":8,"visible":false},{"id":"workbench.view.extension.aws-codewhisperer-reference-log","name":"CodeWhisperer
   Reference
   Log","pinned":true,"order":8,"visible":false},{"id":"workbench.view.extension.polyglot-notebook-panel","name":"Polyglot
   Notebook","pinned":true,"order":8,"visible":false},{"id":"workbench.view.extension.console-view-container","name":"Lightrun","pinned":true,"order":8,"visible":false},{"id":"workbench.view.extension.sqltoolsPanelContainer","name":"SQL
