@@ -10,6 +10,8 @@ enabled:
     uuid: 4ef6c2d5-de36-45a1-9015-18c1d4a3a25e
   - id: alefragnani.project-manager
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
+  - id: alexcvzz.vscode-sqlite
+    uuid: eaee103c-e866-4b73-87f8-3749cab64da2
   - id: almenon.arepl
     uuid: 88eb8072-5ab1-457b-9835-6d92196388a3
   - id: batisteo.vscode-django
@@ -96,6 +98,8 @@ enabled:
     uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
   - id: msrvida.vscode-sanddance
     uuid: 3914ddcf-fa51-4dea-8f96-33dfebc478e1
+  - id: mtxr.sqltools
+    uuid: 6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b
   - id: NabeelValley.easyzoom
     uuid: 8e542409-4bfa-4e57-a1f3-1090e8e99d5b
   - id: njpwerner.autodocstring
@@ -126,6 +130,8 @@ enabled:
     uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
   - id: Tyriar.theme-sapphire
     uuid: a7776178-9e5a-46b6-a12d-480d9a3ee80a
+  - id: ukoloff.win-ca
+    uuid: 809737b6-adaf-4aa9-8b30-14f6a3c9175b
   - id: usernamehw.indent-one-space
     uuid: 21a0ca11-beff-4be7-a773-d094b6a2ed93
   - id: VisualStudioExptTeam.intellicode-api-usage-examples
