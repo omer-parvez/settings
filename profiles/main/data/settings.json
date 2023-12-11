@@ -29,6 +29,7 @@
     },
     "cSpell.userWords": [
         "Omers",
+        "operabilitytools",
         "sourcery",
         "Subsea"
     ],
@@ -53,7 +54,7 @@
     ],
     "editor.inlineSuggest.enabled": true,
     "github.copilot.enable": {
-        "*": true,
+        "*": false,
         "plaintext": false,
         "markdown": false,
         "scminput": false
@@ -137,6 +138,7 @@
     "vscode-edge-devtools.webhintInstallNotification": true,
     "[python]": {
 
+
         "diffEditor.ignoreTrimWhitespace": false,
         "gitlens.codeLens.symbolScopes": [
             "!Module"
@@ -144,7 +146,7 @@
         "editor.formatOnType": true,
         "editor.wordBasedSuggestions": false,
         "editor.mouseWheelZoom": true,
-        "editor.defaultFormatter": "ms-python.python"
+        "editor.defaultFormatter": "ms-python.black-formatter"
     },
     "sonarlint.rules": {
         "Web:S5256": {
@@ -159,5 +161,7 @@
         "editor.mouseWheelZoom": true
     },
     "win-ca.inject": "append",
-    "liveServer.settings.donotShowInfoMsg": true
+    "liveServer.settings.donotShowInfoMsg": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.inlineSuggest.showToolbar": "always"
 }

@@ -1,35 +1,45 @@
 disabled:
   - id: amazonwebservices.aws-toolkit-vscode
     uuid: ac5787df-9b2d-441c-abf0-977d62bc66f0
+  - id: Blackboxapp.blackbox
+    uuid: 29f905db-7b5e-4c4e-9295-02bf72a065d0
+  - id: ms-edgedevtools.vscode-edge-devtools
+    uuid: 11cb120c-f665-45bc-a21e-6de8a5685850
+  - id: kaih2o.python-resource-monitor
+    uuid: 25b17ded-4072-4c87-93b2-de7d29b82702
+  - id: ms-vscode.cmake-tools
+    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
+  - id: ms-vscode.cpptools
+    uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
+  - id: ms-vscode.cpptools-extension-pack
+    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
+  - id: ms-vsliveshare.vsliveshare
+    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
+  - id: twxs.cmake
+    uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
 enabled:
-  - id: aaron-bond.better-comments
-    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
   - id: adpyke.codesnap
     uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
   - id: albert.TabOut
     uuid: 4ef6c2d5-de36-45a1-9015-18c1d4a3a25e
   - id: alefragnani.project-manager
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
-  - id: alexcvzz.vscode-sqlite
-    uuid: eaee103c-e866-4b73-87f8-3749cab64da2
   - id: almenon.arepl
     uuid: 88eb8072-5ab1-457b-9835-6d92196388a3
   - id: batisteo.vscode-django
     uuid: 4b41a5a8-170e-4156-b2c0-10efb270abbc
-  - id: bianxianyang.htmlplay
-    uuid: 888cc293-dcc6-4011-aa11-918f0cf5514d
-  - id: Blackboxapp.blackbox
-    uuid: 29f905db-7b5e-4c4e-9295-02bf72a065d0
   - id: ccimage.jsonviewer
     uuid: c99717c3-af7d-48c8-8dfd-1c08aaed171f
+  - id: charliermarsh.ruff
+    uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
   - id: codezombiech.gitignore
     uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
   - id: cstrap.python-snippets
     uuid: 5c8059d0-7809-4ed2-8f89-690eda5bdea6
   - id: demystifying-javascript.python-extensions-pack
     uuid: e864d807-6575-4096-a389-417ea6d72fec
-  - id: dongli.python-preview
-    uuid: 70e24b61-872b-47e6-b2a6-e5fc2cf3f4e9
   - id: donjayamanne.git-extension-pack
     uuid: d23dc2c3-abed-47d8-9b22-7dd31c1f0ed9
   - id: donjayamanne.githistory
@@ -56,16 +66,12 @@ enabled:
     uuid: 6d40d0bb-f7f2-4d8b-94a9-ad03aa13fb8f
   - id: johnpapa.vscode-peacock
     uuid: 5a7017bf-c571-4d77-b902-6e56b16f539a
-  - id: kaih2o.python-resource-monitor
-    uuid: 25b17ded-4072-4c87-93b2-de7d29b82702
   - id: littlefoxteam.vscode-python-test-adapter
     uuid: 912fd5ae-d9f2-4c31-8a0b-d7fb669afbb4
   - id: mintlify.document
     uuid: de6400ad-0c12-434b-aa5a-6017c93dac64
   - id: mkoeppen.generate-data
     uuid: a5afc901-6346-467b-89e3-2bcc4b9a2541
-  - id: ms-edgedevtools.vscode-edge-devtools
-    uuid: 11cb120c-f665-45bc-a21e-6de8a5685850
   - id: ms-python.black-formatter
     uuid: 859e640c-c157-47da-8699-9080b81c8371
   - id: ms-python.pylint
@@ -84,18 +90,8 @@ enabled:
     uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
   - id: ms-toolsai.vscode-jupyter-slideshow
     uuid: e153ca70-b543-4865-b4c5-b31d34185948
-  - id: ms-vscode.cmake-tools
-    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
-  - id: ms-vscode.cpptools
-    uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
-  - id: ms-vscode.cpptools-extension-pack
-    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
-  - id: ms-vscode.cpptools-themes
-    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
   - id: ms-vscode.test-adapter-converter
     uuid: 47210ec2-0324-4cbb-9523-9dff02a5f9ec
-  - id: ms-vsliveshare.vsliveshare
-    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
   - id: msrvida.vscode-sanddance
     uuid: 3914ddcf-fa51-4dea-8f96-33dfebc478e1
   - id: mtxr.sqltools
@@ -120,16 +116,10 @@ enabled:
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
   - id: TabNine.tabnine-vscode
     uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
-  - id: thebarkman.vscode-djaneiro
-    uuid: 7e72252f-e749-4e4a-bc6a-4a8cc2d121bd
   - id: tomoki1207.pdf
     uuid: 4386e6f6-ec10-4463-9d23-c24278718947
   - id: traBpUkciP.wolf
     uuid: 6d5e664b-8bc5-456b-aa61-537d9a112dc0
-  - id: twxs.cmake
-    uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
-  - id: Tyriar.theme-sapphire
-    uuid: a7776178-9e5a-46b6-a12d-480d9a3ee80a
   - id: ukoloff.win-ca
     uuid: 809737b6-adaf-4aa9-8b30-14f6a3c9175b
   - id: usernamehw.indent-one-space
